@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "trim-habitat-410818",
+    "private_key_id": "14e2ed347271da02a009cf375d1a938b38392ed3",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwm9UjNiKbjZRl\nyONncBxlyNdT9aZeEOpIyL8aQcgHEDlAV7Uqcal6IbNge20j2UnzJeqXyjMvcExw\nilBdp+EtTg9QMPTLVGWrzwy6kNvFl3Z4bGdxeaEqm1dwBvigMj4sb6qZZJwBo8w2\nB0J/tX7eekkaOE3h6SOLwNSnhQL+3DMq7JqoVrLqS9WnOhkL224w2lxUzPOcsekT\nEm42YrPeozoOFhznCta+P9gA8py8GCo8Nz+Vh0YUeU27ZsC5cPx4ZBl441Rsv2Sc\nxJIPRWdEzQtmU9dvBXdo7Gjwlrgz7HzjvUgzCNExQHPNWht2Z8Mett6jB/BB32LN\nisSF6EjTAgMBAAECggEAFIct1reZKDQ5tpG2Kl9z/Y9txVA9Xpu1ZRu9vXiTSTbl\nNgm71iDQuTsnlXm4mD0j2lkNk/J90UV1V8jL9Jw/O+aMjclS+uYRd09MGczIBDH0\neaToFTQ1ETXDNmipB5Mvejd0lfswIwSoskhVE3EY5mqXtVjWvKvpD3qCKAKkSX6a\nGz7o2FkMbVuGxPJpyOmCirzy0OXMQAy/2guLbZxd5K3KyieeMJ8k3dEG9SpAhhPJ\nHwmKVHMOQ3/4XZbLrrnIYZHK9jo4O3WHjAhDYpEA9MzmSESAMZmaOTiIU/SWMiHE\nAh9mKVlIV8gidzBtoJZZcU4rsKbm4lR2f8FQrLcAAQKBgQDZ4I2m2SP9y5gtyG0j\n16s0mFozde0KLUQjTu/DlZ1gz3GXxncWzT7fZr0em24/9wqDBYd7YTdCqI0ngmJ3\nlzfBCRTm7YX7C6eyqxgAKryvo0+2frG8aTlJ8791xasTDqgyCY9nRPdjXDG1ly3a\nyuH7mUMDUf3IV2kmEDO5NHxI0wKBgQDPgrpQJnco0sDqKMLw5w1wSXFPPiN0g3r+\nhcWHM7QZ57HkggmLJoLSqu+MXn9dk5BF/GcQaX9/SUFpmGhmeggnCQdrXEPk1Ttl\nUIFzUR/qe8E5cWoOuCyiCw5Ff1Sl2Xx/3TCojCLeqC1qxJw5G62XI9+b89/5NPGW\nrGLqRWQAAQKBgF5PJQGj3EBvcF/g8d0h7anGiMTdts1A6s2dzYsLqCPPp4vbDJGC\nJkTtY89r2D034gT0z8BIRHNGIlOHzLeXbTrRg4qyJdyVHvHnvWvVE/ey6T5FeQnl\nQjcQmz+PYI3POl7uZHR/Fdacgafo2KBsUYVmweseAoxFye3/9WOlpGahAoGBALzf\nrTt0t3LV2TeIoF7qvwWcI2FQGq9bWSC/m5nDCsOlavqlDZC1HdAoO99Ux7LhtCiv\nYxPCIoU1pS86xJO5sR/ujO1ATp/DIcvGqfzPMzCXMblaLIF3S1C2pWfGTMKkITi0\nmCxhWP+2rZgHmnY0Zh0yTr5BDHRkpxxQjbvUKwABAoGAA5eJgNBM3nMvYoRrTHez\nGK8DLoe1X173X0JuogYqO5miYJMcziJe7G96KoeXKKLBcfWfymubNo44o+jMbQ0d\n+9WOCGVhKxu6X8NNnfGBwzIy/TS1PlmWaExEtkTvhD6JdebmsTX8jNhu3pmtevfn\nxRv4grRDW90/k7LRJaQm8+8=\n-----END PRIVATE KEY-----\n",
+    "client_email": "sheet-google@trim-habitat-410818.iam.gserviceaccount.com",
+    "client_id": "106204875583008188992",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet-google%40trim-habitat-410818.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
