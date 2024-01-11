@@ -6,7 +6,8 @@ require('dotenv').config();
 
 const app = express()
 const port = 3001
-app.use(cors())
+app.use(cors({origin : [process.env.FRONTEND_URL]})) 
+
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
