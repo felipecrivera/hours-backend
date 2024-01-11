@@ -12,8 +12,11 @@ app.use(bodyParser.json())
 
 app.post('/', async (req, res) => {
   const auth = new google.auth.GoogleAuth({
-    email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
-    key: process.env.GOOGLE_PRIVATE_KEY,
+    credentials: {
+      client_email: process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL,
+      private_key: process.env.GOOGLE_PRIVATE_KEY
+    },
+    projectId: process.env.GOOGLE_PROJECT_ID,
     scopes: "https://www.googleapis.com/auth/spreadsheets",
   });
   const spreadsheetId = process.env.GOOGLE_SHEET_ID;
