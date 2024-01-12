@@ -2,12 +2,11 @@ const express = require('express');
 const { google } = require('googleapis');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const https = require("https");
 require('dotenv').config();
 
 const app = express()
 const port = 3001
-app.use(cors()) 
+app.use(cors())
 
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
@@ -44,8 +43,6 @@ app.post('/', async (req, res) => {
   res.send('done')
 })
 
-https
-  .createServer(app)
-  .listen(3001, ()=>{
-    console.log('server is runing at port ' + port)
-  });
+app.listen(3001, () => {
+  console.log('server is runing at port ' + port)
+});
